@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Kevin Pages
 
-You can use the [editor on GitHub](https://github.com/Kevin-Jonathann/Kevin-Jonathann.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### day 1
+Saya belajar tentang kecerdasan komputer dan logika dasar dalam penggunaan phyton
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### day 2
+Saya belajar tentang penggunaan operasi hitung dan memasukan kata kata pada phyton
 
 ### Markdown
 
