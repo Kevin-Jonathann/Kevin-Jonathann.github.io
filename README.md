@@ -9,6 +9,9 @@ Saya belajar tentang penggunaan operasi hitung dan memasukan kata kata pada phyt
 ### day 3
 Saya belajar tentang cara menggunakan if, elif, while loop, dan for loop
 
+### day 4
+Saya belajar mengenai cara menginput text
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
