@@ -12,6 +12,20 @@ Saya belajar tentang cara menggunakan if, elif, while loop, dan for loop
 ### day 4
 Saya belajar mengenai cara menginput text
 
+### day 5
+
+
+### day 6
+
+
+### day 7
+Saya belajar tentang letak kesalahan error pada code
+
+### day 8
+
+saya belaajar cara menggunakan java script
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
