@@ -25,6 +25,13 @@ Saya belajar tentang letak kesalahan error pada code
 
 saya belaajar cara menggunakan java script
 
+### day 12
+mempelajari tentang node js
+
+### day 14 
+mempelajari jade, localhost
+
+
 
 ### Markdown
 
